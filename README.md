@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fablabnbg/fuco/master/fuco.svg" width=215 height=100 />
+<img src="https://github.com/fablabnbg/fuco/raw/master/fuco.png" width="215" height="100" />
 
 ## FUCO - the FabLab Nårnbørg Furniture Collection ##
 
